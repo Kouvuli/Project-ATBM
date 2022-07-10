@@ -20,8 +20,8 @@ https://drive.google.com/file/d/1r7q-QLKkS3U3DQwfWoN2_XJPqXyGWitH/view?usp=shari
 ### - Thư mục script: Chứa script SQL chạy trên DB Oracle
 
 ### - Thư mục source-code:
-  - Oracle-Hibernate-App: App phân hệ 1
-  - OracleQLYT: App phân hệ 2
+  - Oracle-Hibernate-App: Source code ứng dụng phân hệ 1
+  - OracleQLYT: Source code ứng dụng phân hệ 2
    
 ## 4. Lưu ý 
 ### Vì nhóm xài 2 CSDL nên trong thư mục sql-scripts sẽ có 2 file .sql:
