@@ -11,11 +11,11 @@
 
 ## Cấu trúc thư mục
 
-### Thư mục report: Chứa file báo cáo cả hai phân hệ
+### - Thư mục report: Chứa file báo cáo cả hai phân hệ
 
-### Thư mục script: Chứa script SQL chạy trên DB Oracle
+### - Thư mục script: Chứa script SQL chạy trên DB Oracle
 
-### Trong folder source-code:
+### - Thư mục source-code:
   - Oracle-Hibernate-App: App phân hệ 1
   - OracleQLYT: App phân hệ 2
    
